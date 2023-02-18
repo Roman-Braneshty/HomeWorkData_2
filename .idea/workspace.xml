@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf8fe431-1778-42b6-baf0-7d0750436ba7" name="Changes" comment="" />
+    <list default="true" id="cf8fe431-1778-42b6-baf0-7d0750436ba7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Hw2_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/homework2_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hw2_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/homework2_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hw2_3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/homework2_3.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,13 +29,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Project.color": "4d2a43",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Project.color&quot;: &quot;4d2a43&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.homework2">
     <configuration name="homework2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HomeWorkData_2" />
